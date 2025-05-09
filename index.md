@@ -40,6 +40,10 @@ In this project we were tasked with calculating statics problems inside the pyth
 
 *This image displays a statics problem we were tasked with solving and coding a solution that would be able to display correct answers depending on the different variables it presented.*
 
+We used what we learned to create a code that would calculate the conversions of each input given by the user.
+
+![Statics Code](Project2code.png)
+
 ---
 
 ## Connect With Me
