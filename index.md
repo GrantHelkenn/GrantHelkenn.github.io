@@ -1,4 +1,4 @@
-# Your Full Name
+# Grant Helkenn
 
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
 
@@ -23,7 +23,7 @@ My interests include *data analytics*, and `Python programming`.
 
 ## Projects
 
-### Project 1: Title of Your Project
+### Project 1: Organize and Summarize
 ![Screenshot of project](images/project1.png)  
 *Brief description of the project goes here. Include what tools/languages you used and what the outcome was.*
 
