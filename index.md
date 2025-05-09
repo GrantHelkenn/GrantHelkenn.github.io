@@ -27,7 +27,7 @@ My interests include *data analytics*, and `Python programming`.
 ![Project Chart](Project_3.png)  
 Using NHTS data and NGSIM data we learned to use the data to code in bar charts to display the data in an easy to read display
 
-[View the code](https://github.com/GrantHelkenn/CIVE202_Spring_2025_Project3_PythonCode)
+[View the code](https://github.com/GrantHelkenn/CIVE202_Spring_2025_Project3_PythonCode.ipynb)
 
 ---
 
