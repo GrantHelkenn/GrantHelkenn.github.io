@@ -36,7 +36,7 @@ In this project we were tasked with using NHTS and NGSIM data to understand driv
 ### Project 2: Statics Problems
 In this project we were tasked with calculating statics problems inside the python software as a practice to use coding for calculations. We learned different shortcuts and math imports that would help us further and make large statics problems a lot easier. We learned to code variable solutions to problems where different inputs would give us the correct answers each time. Learning how to code statics problems was a new learning curve to many as it required us to learn a solid understanding of the packages and software we were working with.
 
-![Statics Problem](project2.png)  
+![Statics Problem](Project2.png)  
 
 *This image displays a statics problem we were tasked with solving and coding a solution that would be able to display correct answers depending on the different variables it presented.*
 
