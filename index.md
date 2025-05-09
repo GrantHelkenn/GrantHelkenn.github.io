@@ -24,24 +24,27 @@ My interests include *data analytics*, and `Python programming`.
 ## Projects
 
 ### Project 1: Displaying data using tables
-![Project Chart](Project_3.png)  
-Using NHTS data and NGSIM data we learned to use the data to code in bar charts to display the data in an easy to read display
+In this project we were tasked with using NHTS and NGSIM data to understand driving behavior and transportation system performance. We were tasked with organizing and displaying data to visualize the trends within the given data. My group and I used this data and imported it through the python software which we imported the panda, matplotlib, and seaborn packages to help us obtain our data. This project tought us a lot about how to visualize our data and to perform and execute tasks to organize and make sure everything is displayed correctly
 
-[View the code](https://github.com/GrantHelkenn/CIVE202_Spring_2025_Project3_PythonCode.ipynb)
+![Project Chart](Project_3.png)  
+
+This image displays a leader/follower time chart showing the accelerations of each car as they drive to show driving behavior.
+
 
 ---
 
-### Project 2: Another Project
-![Placeholder image](images/project2.jpg)  
+### Project 2: Statics Problems
+
+![](images/project2.jpg)  
 *A short description of this project. What problem did it solve? What did you learn?*
 
 ---
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [GitHub](https://github.com/yourusername)  
-- [Email Me](mailto:yourname@university.edu)
+- [LinkedIn](https://www.linkedin.com/in/grant-helkenn)  
+- [GitHub](https://github.com/GrantHelkenn)  
+- [Email Me](mailto:ghelkenn2@huskers.unl.edu)
 
 ---
 
@@ -49,5 +52,4 @@ Using NHTS data and NGSIM data we learned to use the data to code in bar charts 
 
 - [Home](index.md)  
 - [About Me](about.md)  
-- [Projects](projects.md)  
-- [Contact](contact.md)
+  
