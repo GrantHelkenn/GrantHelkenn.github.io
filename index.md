@@ -28,7 +28,7 @@ In this project we were tasked with using NHTS and NGSIM data to understand driv
 
 ![Project Chart](Project_3.png)  
 
-This image displays a leader/follower time chart showing the accelerations of each car as they drive to show driving behavior.
+*This image displays a leader/follower time chart showing the accelerations of each car as they drive to show driving behavior.*
 
 
 ---
@@ -38,7 +38,7 @@ In this project we were tasked with calculating statics problems inside the pyth
 
 ![Statics Problem](project2.jpg)  
 
-This image displays a statics problem we were tasked with solving and coding a solution that would be able to display correct answers depending on the different variables it presented.
+*This image displays a statics problem we were tasked with solving and coding a solution that would be able to display correct answers depending on the different variables it presented.*
 
 ---
 
