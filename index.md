@@ -23,9 +23,9 @@ My interests include *data analytics*, and `Python programming`.
 
 ## Projects
 
-### Project 1: Organize and Summarize
-![Screenshot of project](project3.png)  
-*Brief description of the project goes here. Include what tools/languages you used and what the outcome was.*
+### Project 1: Displaying data using tables
+![Project](project3.png)  
+Using NHTS data and NGSIM data we learned to use the data to code in bar charts to display the data in an easy to read display
 
 [View the code](https://github.com/yourusername/project1)
 
