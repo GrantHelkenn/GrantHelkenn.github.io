@@ -44,6 +44,8 @@ We used what we learned to create a code that would calculate the conversions of
 
 ![Statics Code](Project2code.png)
 
+*This image shows our code and the conversion rates per input to its specified unit*
+
 ---
 
 ## Connect With Me
