@@ -24,7 +24,7 @@ My interests include *data analytics*, and `Python programming`.
 ## Projects
 
 ### Project 1: Organize and Summarize
-![Screenshot of project](images/project1.png)  
+![Screenshot of project](project3.png)  
 *Brief description of the project goes here. Include what tools/languages you used and what the outcome was.*
 
 [View the code](https://github.com/yourusername/project1)
